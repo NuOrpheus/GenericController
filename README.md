@@ -1,0 +1,5 @@
+A 3d environment built in unreal engine 5. 
+
+Installation: 
+  Windows - Download from https://nuorpheus.itch.io/generic-controller, unzip and it's ready.
+  Linux - Clone the repository, then open through unreal engine 5.8 run it through the editor or package it and run it through that executable.
