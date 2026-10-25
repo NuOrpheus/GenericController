@@ -1,0 +1,7 @@
+List of assets used from the Unreal Engine Fab:
+All assets are under Fab's "Standard License", CC-BY (Creative Commons Attribution License) unless explicitly stated otherwise.
+
+Quixel Megascans: Wild Grass, Megaplants: European Hornbeam, Spotted Red Mushrooms
+Flawless Normals: Abandoned Barn Village House Destroyed (Creative Commons Attribution (CC BY 4.0)
+Uneasy Game Dev: Good SKY
+Timofei Shukshin: Procedural Wind
